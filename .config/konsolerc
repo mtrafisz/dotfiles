@@ -1,0 +1,33 @@
+[Desktop Entry]
+DefaultProfile=My Profile.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1024x768 screen: Height=740
+1024x768 screen: Width=837
+1920x1080 screen: Height=1007
+1920x1080 screen: Width=1090
+2 screens: Height=508
+2 screens: Width=911
+2560x1440 screen: Height=742
+2560x1440 screen: Width=1090
+2560x1440 screen: XPosition=903
+2560x1440 screen: YPosition=284
+5120x1440 screen: Height=1290
+5120x1440 screen: Width=1233
+5120x1440 screen: XPosition=1521
+5120x1440 screen: YPosition=72
+DP-0=DP-0
+DP-2=DP-2
+MenuBar=Enabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAASQA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAAA4AD///8AAATRAAAE8wAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+CloseAllTabs=true
+
+[UiSettings]
+ColorScheme=Breeze Dark
