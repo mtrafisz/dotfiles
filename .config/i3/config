@@ -217,3 +217,4 @@ bar {
 exec qbittorrent
 
 exec_always feh --bg-scale /home/lain/Pictures/miku.jpg
+exec --no-startup-id setxkbmap pl
