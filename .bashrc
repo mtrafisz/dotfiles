@@ -4,6 +4,11 @@ case $- in
       *) return;;
 esac
 
+# If not in tmux session - start one
+if [ -z "$TMUX" ]; then
+	exec tmux
+fi
+
 # don't put duplicate lines or lines starting with space in the history.
 HISTCONTROL=ignoreboth
 
